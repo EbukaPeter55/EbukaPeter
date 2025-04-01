@@ -13,7 +13,7 @@ I'm a frontend engineer passionate about building scalable, high-performance web
 
 ## 🔧 Tech Stack & Expertise
 - **Languages & Frameworks:** JavaScript (Expert), TypeScript (Expert), React.js (Expert), Angular (Expert), Next.js (Intermediate)
-- **UI/UX:** CSS/SCSS (Expert), Figma (Expert), Bootstrap (Expert), Tailwind CSS (Expert), Chakra UI (Expert)
+- **UI/UX:** CSS/SCSS (Expert), Figma (Expert), Adobe Illustrator, Bootstrap (Expert), Tailwind CSS (Expert), Chakra UI (Expert)
 - **Testing:** Jest (Intermediate), Cypress (Intermediate), React Testing Library (Intermediate)
 - **DevOps & Tools:** Git (Expert), Docker (Intermediate), AWS (S3, EC2) (Intermediate), CI/CD (Vercel, Netlify, Jenkins)
 - **Component Libraries:** Storybook (Intermediate)
@@ -29,13 +29,13 @@ I'm a frontend engineer passionate about building scalable, high-performance web
 🔗 [Human Manager web app](https://humanmanager.net/)
 
 ### **Senior React Engineer - Zerotech Agency**  
-🚀 Built the frontend for **Vibes Dating Social Media Web App**  
+🚀 Collaborated with other engineers to build the frontend for **Vibes Dating Social Media Web App**  
 🔍 Conducted code reviews, enhancing security & best practices by 80%  
 
 🔗 [Vibes Meet](https://vibesmeet.com)
 
 ### **Frontend Engineer - Kobopay**  
-🌍 Developed a **cross-border payment gateway web application**  
+🌍 Worked alongside other engineers to develop a **cross-border payment gateway web application**  
 🎨 Created animations to enhance UX  
 
 🔗 [Kobopay](https://kobopay.co)
